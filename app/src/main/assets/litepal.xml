@@ -1,0 +1,11 @@
+<litepal>
+    <dbname value ="wang_bin_ying"/>
+    <version value ="1"/>
+    <list>
+        <mapping class ="com.wangbinying.android.db.Province"/>
+        <mapping class ="com.wangbinying.android.db.City"/>
+        <mapping class ="com.wangbinying.android.db.County"/>
+
+    </list>
+
+</litepal>
